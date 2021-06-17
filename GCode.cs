@@ -6,7 +6,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-namespace GCodeManager
+namespace GCodeParser
 {
     [Serializable]
     public class GCode
