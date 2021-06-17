@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace GCodeManager
+namespace GCodeParser
 {
     static class GParser
     { 
